@@ -29,3 +29,8 @@ _November 28 2022_
     - [Cubes](https://en.wikipedia.org/wiki/Cubes_(OLAP_server))
   - SQL Server Analysis Services (see Kimball...)
   - [Elastic Search](https://stackoverflow.com/questions/35513249/reasons-against-using-elasticsearch-as-an-olap-cube)
+
+## Notes, next steps
+
+- [HLL](https://en.wikipedia.org/wiki/HyperLogLog) — useful trick for 
+- No SQL case study
